@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(229, 228, 228);
+    font-family: sans-serif;
+    }
+#heading h1 {
+    margin: 0px;
+}
+#heading {
+    font-weight: bold;
+    color: white;
+    background-color: #bc0afd;
+    padding: 20px;
+    height: 160px;
+    text-align: center;
+}
+input {
+    text-align: center;
+    font-size: 30px;
+    display: block;
+    width: 70px;
+    height: 50px;
+    margin: 20px auto;
+    background-color: #bf1afa;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+#convert-btn {
+    width: 80px;
+    height: 30px;
+    padding: 5px;
+    border: none;
+    border-radius: 5px;
+}
+.conversion {
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: normal;
+}
