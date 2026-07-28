@@ -1,2 +1,4 @@
 # Project-12-UnitsConvertor
-This is the twelveth project of my full stack web development journey. In this, i made a website that is used to convert quantities like-weight, length and temperature from  
+This is the twelveth project of my full stack web development journey. In this, i made a website that is used to convert quantities like-weight, length and temperature from Metric to Imperial and Vice Versa
+
+<p><a href="https://bhumitsahani.github.io/Project-12-UnitsConvertor/">Click Here</a> to view the live website.</p>
